@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/steel_background"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <Button
+        android:id="@+id/toBudget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#7F000000"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:drawableStart="@drawable/ic_budget125"
+        android:onClick="onToBudgetScreenButtonClicked"
+        android:text="@string/budget_screen"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/toCalendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#7F000000"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:drawableStart="@drawable/ic_calendar125"
+        android:onClick="onToCalendarButtonClicked"
+        android:text="@string/calender"
+        android:textSize="25sp" />
+</androidx.appcompat.widget.LinearLayoutCompat>

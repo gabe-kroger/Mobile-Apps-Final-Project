@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Budget App</string>
+    <string name="enter_total_budget">Enter Total Budget</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+    <string name="add_expenses">Add Expenses</string>
+    <string name="addExpenses">Add Expenses to Expense List</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="sign_in_instead">Sign-In instead</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="last_name">Last Name</string>
+    <string name="next">Next</string>
+    <string name="appicon">AppIcon</string>
+    <string name="calendar_view">Calendar View</string>
+    <string name="home">Home</string>
+    <string name="budget">Budget</string>
+    <string name="calender">Calender</string>
+    <string name="budget_screen">Budget Screen</string>
+    <string name="add_budget">Add</string>
+    <string name="add_money">$0.00</string>
+    <string name="enter_amount">Enter Amount</string>
+
+
+
+</resources>
